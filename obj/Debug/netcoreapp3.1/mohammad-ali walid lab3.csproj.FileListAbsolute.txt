@@ -1,0 +1,19 @@
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\bin\Debug\netcoreapp3.1\mohammad-ali walid lab3.exe
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\bin\Debug\netcoreapp3.1\mohammad-ali walid lab3.deps.json
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\bin\Debug\netcoreapp3.1\mohammad-ali walid lab3.runtimeconfig.json
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\bin\Debug\netcoreapp3.1\mohammad-ali walid lab3.runtimeconfig.dev.json
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\bin\Debug\netcoreapp3.1\mohammad-ali walid lab3.dll
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\bin\Debug\netcoreapp3.1\mohammad-ali walid lab3.pdb
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.csprojAssemblyReference.cache
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3_MarkupCompile.cache
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3_MarkupCompile.lref
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.g.resources
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.AssemblyInfoInputs.cache
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.AssemblyInfo.cs
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.csproj.CoreCompileInputs.cache
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.dll
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.pdb
+C:\Users\Walid\source\repos\mohammad-ali walid lab3\obj\Debug\netcoreapp3.1\mohammad-ali walid lab3.genruntimeconfig.cache
